@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://wuddartfurniture.in/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://wuddartfurniture.in/images/hero.jpg</image:loc>
+      <image:title>Wuddart Furniture Handcrafted Kerala Teakwood Furniture</image:title>
+      <image:caption>Genuine Kerala Teakwood Furniture, Doors, Windows and Wardrobes in Uthukuli, Tirupur</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://wuddartfurniture.in/images/cat-living.jpg</image:loc>
+      <image:title>Teakwood Living Room Furniture</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wuddartfurniture.in/images/cat-bedroom.jpg</image:loc>
+      <image:title>Kerala Teakwood Bedroom Furniture</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wuddartfurniture.in/images/cat-storage.jpg</image:loc>
+      <image:title>Teakwood Wardrobe and Storage Solutions</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wuddartfurniture.in/images/cat-teakdoors.jpg</image:loc>
+      <image:title>Solid Teakwood Main Doors</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wuddartfurniture.in/images/cat-teakwindows.jpg</image:loc>
+      <image:title>Teakwood Windows and Louvers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://wuddartfurniture.in/images/cat-kitchen.jpg</image:loc>
+      <image:title>Teakwood Kitchen Furniture and Cabinetry</image:title>
+    </image:image>
+  </url>
+</urlset>
